@@ -58,6 +58,10 @@ Desarrollador **Full-Stack** apasionado por crear productos digitales de princip
 
 <img src="https://streak-stats.demolab.com?user=netfox258&theme=github-dark-blue&hide_border=true&locale=es" alt="Racha de contribuciones" />
 
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=netfox258&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" />
+
 </div>
 
 ---
@@ -74,20 +78,4 @@ Desarrollador **Full-Stack** apasionado por crear productos digitales de princip
 
 💬 ¿Tienes un proyecto en mente? **[Hablemos en softwex.es](https://www.softwex.es)**
 
-</div>/github-readme-stats.vercel.app/api?username=netfox258&show_icons=true&theme=dark&hide_border=true)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=netfox258&layout=compact&theme=dark&hide_border=true)
-<!--
-**netfox258/netfox258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
