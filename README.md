@@ -1,46 +1,80 @@
-# ¡Hola! Soy Javi 👋
+<div align="center">
 
-### 🚀 Founder & Full-Stack Software Engineer @ [Softwex Technologies](https://www.softwex.es)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=%C2%A1Hola!+Soy+Javi+%F0%9F%91%8B;Founder+%26+Full-Stack+Software+Engineer;Construyendo+productos+digitales+end-to-end" alt="Typing SVG" />
 
-Desarrollador Full-Stack apasionado por crear productos digitales end-to-end. Compagino el desarrollo web con mis estudios de **ASIR** (Administración de Sistemas Informáticos en Red), lo que me permite tener una visión global de desarrollo, infraestructura, redes y servidores.
+<p>
+  <a href="https://www.softwex.es"><img src="https://img.shields.io/badge/Softwex_Technologies-Founder-2F81F7?style=for-the-badge&logo=rocket&logoColor=white" alt="Softwex Technologies"></a>
+  <a href="https://www.softwex.es"><img src="https://img.shields.io/badge/Web-softwex.es-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web"></a>
+  <img src="https://img.shields.io/badge/ASIR-Estudiante-success?style=for-the-badge&logo=linux&logoColor=white" alt="ASIR">
+</p>
 
----
+<img src="https://komarev.com/ghpvc/?username=netfox258&label=Visitas&color=2F81F7&style=flat-square" alt="Visitas al perfil" />
 
-### 🛠️ Tecnologías & Stack
-
-**Frontend & Web:**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-**Backend & Bases de Datos:**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Sistemas, Redes & Herramientas:**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Networks](https://img.shields.io/badge/Redes_%26_Sistemas-00599C?style=flat-square&logo=cisco&logoColor=white)
+</div>
 
 ---
 
-### 💻 Sobre mí
+## 🚀 Sobre mí
 
-- 🌐 Liderando proyectos en **[Softwex Technologies](https://www.softwex.es)**.
-- 🎓 Estudiante de **ASIR**: especializándome en servidores, administración de sistemas, infraestructura y seguridad de red.
-- ⚡ Interesado en arquitectura web eficiente, optimización mediante CDNs y despliegue de servidores backend con Node/Express.
-- 📫 Contacto: **[www.softwex.es](https://www.softwex.es)**
+Desarrollador **Full-Stack** apasionado por crear productos digitales de principio a fin. Compagino el desarrollo web con mis estudios de **ASIR** (Administración de Sistemas Informáticos en Red), lo que me permite tener una visión global de **desarrollo, infraestructura, redes y servidores**.
+
+- 🌐 Liderando proyectos en [**Softwex Technologies**](https://www.softwex.es)
+- 🎓 Estudiante de **ASIR**: servidores, administración de sistemas, infraestructura y seguridad de red
+- ⚡ Interesado en arquitectura web eficiente, optimización mediante CDNs y despliegue de servidores backend con Node/Express
+- 📫 Contacto: [www.softwex.es](https://www.softwex.es)
 
 ---
 
-### 📊 Estadísticas de GitHub
+## 🛠️ Tecnologías & Stack
 
-![Estadísticas de Javi](https://github-readme-stats.vercel.app/api?username=netfox258&show_icons=true&theme=dark&hide_border=true)
+**Frontend & Web**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="Frontend" />
+</p>
+
+**Backend & Bases de Datos**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,mysql" alt="Backend" />
+</p>
+
+**Sistemas, Redes & Herramientas**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Herramientas" />
+</p>
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+<!-- Generado por la GitHub Action .github/workflows/metrics.yml -->
+<img src="./github-metrics.svg" alt="Métricas de GitHub de Javi" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=netfox258&theme=github-dark-blue&hide_border=true&locale=es" alt="Racha de contribuciones" />
+
+</div>
+
+---
+
+## 🏢 Organización
+
+<a href="https://github.com/Softwex-Technologies">
+  <img src="https://img.shields.io/badge/GitHub-Softwex--Technologies-181717?style=for-the-badge&logo=github" alt="Softwex Technologies en GitHub">
+</a>
+
+---
+
+<div align="center">
+
+💬 ¿Tienes un proyecto en mente? **[Hablemos en softwex.es](https://www.softwex.es)**
+
+</div>/github-readme-stats.vercel.app/api?username=netfox258&show_icons=true&theme=dark&hide_border=true)
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=netfox258&layout=compact&theme=dark&hide_border=true)
 <!--
