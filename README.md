@@ -42,7 +42,12 @@ Desarrollador **Full-Stack** apasionado por crear productos digitales de princip
 **Sistemas, Redes & Herramientas**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Herramientas" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu,bash,nginx" alt="Herramientas" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
+  <img src="https://img.shields.io/badge/Redes_%26_Sistemas-0078D4?style=for-the-badge&logo=cisco&logoColor=white" alt="Redes y Sistemas" />
 </p>
 
 ---
